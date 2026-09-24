@@ -9,6 +9,9 @@ Soy programador Jr. con conocimientos y buenas prácticas en POO.
 
 
   # 1. Análisis
+  En el análisis se comenzó estableciendo el tipo de videojuego y para que usuarios estaría dirigido
   # 2. Diseño
+  Para el diseño se realizó un diagrama de flujo el cual desarrollaba los aspectos que llevaría el videojuego 
   # 3. Desarrollo/Código
   # 4. Presentación en GitHub
+  Se realiza la entrega del proyecto por medio de un repositorio en Github 
