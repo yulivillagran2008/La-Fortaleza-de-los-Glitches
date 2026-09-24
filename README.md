@@ -1,5 +1,5 @@
 # La-Fortaleza-de-los-Glitches
-La Fortaleza de los Glitches es un videojuego educativo de aventura en consola Python para usuarios de 8 a 12 años. Explora los mapas y resuelve acertijos para derrotar a los Glitches.
+La Fortaleza de los Glitches: Pixel Adventure es un videojuego educativo diseñado para consola de Python dirigido a usuarios de 8 a 12 años, donde los jugadores exploran mapas, recolectan recursos y resuelven acertijos lógicos para derrotar al Rey Glitch. Para jugar ejecuta "fase3_desarrollo.py" en la terminal y sigue las instrucciones en pantalla.
 
 # Yuli Villagrán
 Soy programador Jr. con conocimientos y buenas prácticas en POO.
