@@ -7,6 +7,7 @@ Soy programador Jr. con conocimientos y buenas prácticas en POO.
 # Proyecto Integrador (VIDEO JUEGO)
 - Proyecto integrador basado a la estructura de un video juego, realizado por medio del ciclo de vida del software.
 
+
   # 1. Análisis
   # 2. Diseño
   # 3. Desarrollo/Código
